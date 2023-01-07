@@ -5,7 +5,6 @@ function printDI(n){
 	console.log(n);
 	printDI(n-1);
 	console.log(n);
-	
 }
 
 function runProgram(input){
